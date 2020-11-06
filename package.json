@@ -1,0 +1,28 @@
+{
+  "name": "Overview - DevExtreme Pivot Grid",
+  "main": "src/app/app.component.ts",
+  "description": "DevExtreme HTML5 JavaScript Pivot Grid is a client-side control available as an Angular component. Its key features are: multiple summary calculation modes, customizable layout, exporting to Excel, integration with the DevExtreme Chart widget. In addition, Pivot Grid supports TypeScript and AOT compilation and can be configured declaratively.\n",
+  "dependencies": {
+    "zone.js": "0.10.2",
+    "tslib": "2.0.3",
+    "rxjs": "6.3.3",
+    "rrule": "2.6.6",
+    "preact": "10.5.5",
+    "luxon": "1.25.0",
+    "jszip": "3.5.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-quill": "0.9.5",
+    "devextreme-angular": "20.2.3",
+    "devextreme": "20.2.3",
+    "devexpress-gantt": "2.0.0",
+    "devexpress-diagram": "2.0.0",
+    "core-js": "2.4.1",
+    "@angular/router": "8.0.0",
+    "@angular/platform-browser-dynamic": "8.0.0",
+    "@angular/platform-browser": "8.0.0",
+    "@angular/forms": "8.0.0",
+    "@angular/core": "8.0.0",
+    "@angular/compiler": "8.0.0",
+    "@angular/common": "8.0.0"
+  }
+}
